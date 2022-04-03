@@ -20,10 +20,10 @@ variable "datacenter" {
 }
 
 
-variable "resource_pool" {
-  type = string
-  description = "Name of the resource pool"
-}
+//variable "resource_pool" {
+//  type = string
+//  description = "Name of the resource pool"
+//}
 
 variable "datastore_name" {
   type = string
